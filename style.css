@@ -1,0 +1,12 @@
+/*import url(https://www.1001fonts.com/)*/
+font-fase {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    src: url(https://www.1001fonts.com/);
+}
+font-face {
+    font-family: 'Times New Roman', Times, serif;
+    src: url(https://www.1001fonts.com/);
+}
+ { font-family: "playrite"; }
+h1{ font-family: "3Dlet"; color: blue;}
+i{ font-size: 50px; color: brown;}
